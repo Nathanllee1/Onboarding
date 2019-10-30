@@ -1,0 +1,17 @@
+customProperties:"formComponent:false,\
+useCssPosition:true",
+dataSource:"db:/example_data/orders",
+encapsulation:44,
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"60F8C7EC-4E79-448D-8013-8064BBAB6722"
+}
+],
+name:"orders",
+navigatorID:"-1",
+showInMenu:true,
+typeid:3,
+uuid:"5101BDB8-D8FB-4EFB-8577-8CF2CBCED380"

@@ -1,0 +1,11 @@
+customProperties:"formComponent:false,\
+layout:{\
+responsive:true\
+}",
+dataSource:"db:/example_data/orders",
+encapsulation:44,
+name:"orderform",
+navigatorID:"-1",
+showInMenu:true,
+typeid:3,
+uuid:"288D7524-BD01-4BCB-93E2-33EBD856E6CC"
